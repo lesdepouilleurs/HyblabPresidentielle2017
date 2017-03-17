@@ -1,95 +1,91 @@
 <!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name=”author” content="">
-    <meta name="keyword" content="">
-    <meta name="description" content= "">
-    <title>| HybLab |</title>
-  <link rel="stylesheet" type="text/css" href="./style.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <script defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD0othcEZUsFnDRiRQM2rZlNH1jBliT--o&callback=initialisation"></script>
-    <link href="https://fonts.googleapis.com/css?family=Anaheim" rel="stylesheet">
-</head>
-<body>
-<!--------------POI01------------>
-    <section class="POI01">
-        <div class="fermer"></div>
-        <div class="header">
-            <div class="adress">
-                <h5>5E CANTON (9)</h5>
-                <h6>Ecole primaire</h6>
-                <h6>12 Rue des Réformes</h6>
-                <h6>44000 Nantes</h6>
-            </div>
-            <div class="office">
-                <h3>BUREAU DE VOTE</h3>
-                <button>N°601<img src=""></button>
-            </div>
-        </div>
-        <div class="data-container">
-            
-        </div>
-        
-        <div class="other">
-            <h1>CE BUREAU A BESOIN DE VOUS !</h1>
-            <button>Je m'inscris</button>
-        </div>
-    </section>
-    
-<!--------------POI02------------>
-    <section class="POI02">
-        <div class="fermer"></div>
-        <div class="header">
-            <div class="adress">
-                <h5>4E CANTON (8)</h5>
-                <h6>Salle des fêtes</h6>
-                <h6>04 Rue Fédeau</h6>
-                <h6>44000 Nantes</h6>
-            </div>
-            <div class="office">
-                <h3>BUREAU DE VOTE</h3>
-                <button>N°520<img src=""></button>
-            </div>
-        </div>
-        <div class="data-container">
-            
-        </div>
-        
-        <div class="other">
-            <h1>CE BUREAU A BESOIN DE VOUS !</h1>
-            <button>Je m'inscris</button>
-        </div>
-    </section>
-    
-    <footer class="POI01-F">
-        <div class="done"></div>
-        <div class="done"></div>
-        <div class="done"></div>
-        <div></div>
-        <div></div>
-    </footer>
+<meta charset="utf-8">
+<style>
 
-	       <div id="google-container"></div>
-	       <div id="cd-zoom-in"></div>
-	       <div id="cd-zoom-out"></div>
-      
-    
-    
-    
-        
- <!------------------MAPS-----------------   
-    <section id="cd-google-map">
-        <div id="google-container"></div>
-        <div id="cd-zoom-in"></div>
-        <div id="cd-zoom-out"></div>
-    </section>
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+  position: relative;
+  width: 960px;
+}
 
--->
-    
-<script src="main.js"></script>
+text {
+  font: 10px sans-serif;
+}
 
-        
-    </body>
-</html>
+form {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+
+</style>
+<form>
+  <label><input type="radio" name="dataset" value="bureau1" checked> Bureau 1</label>
+  <label><input type="radio" name="dataset" value="bureau2"> Bureau 2</label>
+</form>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script>
+
+var width = 960,
+    height = 500,
+    radius = Math.min(width, height) / 2;
+
+var color = d3.scale.category20();
+
+var pie = d3.layout.pie()
+    .value(function(d) { return d.bureau1; })
+    .sort(null);
+
+var arc = d3.svg.arc()
+    .innerRadius(radius - 100)
+    .outerRadius(radius - 20);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height)
+  .append("g")
+    .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+
+d3.tsv("./html/data.tsv", type, function(error, data) {
+  var path = svg.datum(data).selectAll("path")
+      .data(pie)
+    .enter().append("path")
+      .attr("fill", function(d, i) { return color(i); })
+      .attr("d", arc)
+      .each(function(d) { this._current = d; }); // store the initial angles
+
+  d3.selectAll("input")
+      .on("change", change);
+
+  var timeout = setTimeout(function() {
+    d3.select("input[value=\"bureau2\"]").property("checked", true).each(change);
+  }, 2000);
+
+  function change() {
+    var value = this.value;
+    clearTimeout(timeout);
+    pie.value(function(d) { return d[value]; }); // change the value function
+    path = path.data(pie); // compute the new angles
+    path.transition().duration(750).attrTween("d", arcTween); // redraw the arcs
+  }
+});
+
+function type(d) {
+  d.bureau1 = +d.bureau1 || 0;
+  d.bureau2 = +d.bureau2 || 0;
+  return d;
+}
+
+// Store the displayed angles in _current.
+// Then, interpolate from _current to the new angles.
+// During the transition, _current is updated in-place by d3.interpolate.
+function arcTween(a) {
+  var i = d3.interpolate(this._current, a);
+  this._current = i(0);
+  return function(t) {
+    return arc(i(t));
+  };
+}
+
+</script>

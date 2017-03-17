@@ -9,9 +9,16 @@ var app = express();
 
 var fs = require('fs');
 
+var d3 = require('d3');
+app.use(express.static(path.join(__dirname, 'public')));
+
 app.get("/", (req, res) => {
 	console.log("Page principale");
-	res.send("Hello world this is the home page");
+	res.set({"Content-Type" : "text/html"});	// Typage du texte
+	fs.readFile('citizen_press/public/html/testchart.html','utf8', function(err,data){	// Lecture d'un fichier
+		res.write(data);
+		res.end();
+	});	// Ecriture dans la réponse
 });
 
 // GET bureaux (pour la map)
@@ -23,7 +30,7 @@ app.get("/bureaux", (req, res) => {
 	    res.write(obj.bureaux[0].id);
 	    res.send();
 	});
-});
+})
 
 // GET informations sur un bureau (pour récupérer les informations lors de l'inscription)
 app.get("/bureaux/:id", (req, res) => {
