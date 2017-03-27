@@ -1,11 +1,11 @@
 {
     "bureaux": [{
-        "id": 0,
+        "id": 111,
         "adresse": "2 Rue du Cheval Blanc",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2171,
+        "long": -1.5561,
         "president": "idPresident0",
         "nom_lieu": " Ecole maternelle Molière",
         "assesseurs": [{
@@ -66,12 +66,12 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 1,
+        "id": 112,
         "adresse": "2 Rue du Cheval Blanc",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2171,
+        "long": -1.5561,
         "president": "idPresident1",
         "nom_lieu": " Ecole maternelle Molière",
         "assesseurs": [{
@@ -172,12 +172,12 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 2,
+        "id": 113,
         "adresse": "2 Rue du Cheval Blanc",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2171,
+        "long": -1.5561,
         "president": "idPresident2",
         "nom_lieu": " Ecole maternelle Molière",
         "assesseurs": [{
@@ -246,12 +246,12 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 3,
+        "id": 114,
         "adresse": "2 Rue du Cheval Blanc",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2171,
+        "long": -1.5561,
         "president": "idPresident3",
         "nom_lieu": " Ecole maternelle Molière",
         "assesseurs": [{
@@ -356,14 +356,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 4,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 121,
+        "adresse": "12 boulevard de Stalingrad",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
+        "lat": 47.2194,
         "long": -1.5983,
         "president": "idPresident4",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": "Groupe Scolaire Stalingrad",
         "assesseurs": [{
             "id": "idAsse79",
             "valide_assesseur": false,
@@ -458,14 +458,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 5,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 122,
+        "adresse": "12 boulevard de Stalingrad",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
+        "lat": 47.2194,
         "long": -1.5983,
         "president": "idPresident5",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": "Groupe Scolaire Stalingrad",
         "assesseurs": [{
             "id": "idAsse102",
             "valide_assesseur": false,
@@ -520,14 +520,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 6,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 123,
+        "adresse": "12 boulevard de Stalingrad",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
+        "lat": 47.2194,
         "long": -1.5983,
         "president": "idPresident6",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": "Groupe Scolaire Stalingrad",
         "assesseurs": [{
             "id": "idAsse115",
             "valide_assesseur": false,
@@ -594,14 +594,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 7,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 131,
+        "adresse": "Allée de la Reine Margot",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2228,
+        "long": -1.5499,
         "president": "idPresident7",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Sully",
         "assesseurs": [{
             "id": "idAsse131",
             "valide_assesseur": false,
@@ -696,14 +696,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 8,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 132,
+        "adresse": "Allée de la Reine Margot",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2228,
+        "long": -1.5499,
         "president": "idPresident8",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Sully",
         "assesseurs": [{
             "id": "idAsse154",
             "valide_assesseur": false,
@@ -758,14 +758,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 9,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 133,
+        "adresse": "Allée de la Reine Margot",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2228,
+        "long": -1.5499,
         "president": "idPresident9",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Sully",
         "assesseurs": [{
             "id": "idAsse167",
             "valide_assesseur": false,
@@ -832,14 +832,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 10,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 134,
+        "adresse": "Allée de la Reine Margot",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2228,
+        "long": -1.5499,
         "president": "idPresident10",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Sully",
         "assesseurs": [{
             "id": "idAsse183",
             "valide_assesseur": false,
@@ -886,14 +886,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 11,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 141,
+        "adresse": "45 rue Noire",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2248,
+        "long": -1.5637,
         "president": "idPresident11",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole primaire Noire",
         "assesseurs": [{
             "id": "idAsse194",
             "valide_assesseur": false,
@@ -952,14 +952,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 12,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 142,
+        "adresse": "45 rue Noire",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2248,
+        "long": -1.5637,
         "president": "idPresident12",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole primaire Noire",
         "assesseurs": [{
             "id": "idAsse208",
             "valide_assesseur": false,
@@ -1014,14 +1014,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 13,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 143,
+        "adresse": "45 rue Noire",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2248,
+        "long": -1.5637,
         "president": "idPresident13",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole primaire Noire",
         "assesseurs": [{
             "id": "idAsse221",
             "valide_assesseur": false,
@@ -1092,14 +1092,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 14,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 144,
+        "adresse": "45 rue Noire",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2248,
+        "long": -1.5637,
         "president": "idPresident14",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole primaire Noire",
         "assesseurs": [{
             "id": "idAsse238",
             "valide_assesseur": false,
@@ -1206,14 +1206,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 15,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 151,
+        "adresse": "34 rue Léon Say",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2295,
+        "long": -1.5702,
         "president": "idPresident15",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole Léon Say",
         "assesseurs": [{
             "id": "idAsse264",
             "valide_assesseur": false,
@@ -1304,14 +1304,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 16,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 152,
+        "adresse": "34 rue Léon Say",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2295,
+        "long": -1.5702,
         "president": "idPresident16",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole Léon Say",
         "assesseurs": [{
             "id": "idAsse286",
             "valide_assesseur": false,
@@ -1362,14 +1362,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 17,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 153,
+        "adresse": "34 rue Léon Say",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2295,
+        "long": -1.5702,
         "president": "idPresident17",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole Léon Say",
         "assesseurs": [{
             "id": "idAsse298",
             "valide_assesseur": false,
@@ -1424,14 +1424,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 18,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 154,
+        "adresse": "34 rue Léon Say",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2295,
+        "long": -1.5702,
         "president": "idPresident18",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole Léon Say",
         "assesseurs": [{
             "id": "idAsse311",
             "valide_assesseur": false,
@@ -1506,14 +1506,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 19,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 161,
+        "adresse": "46 Boulevard Henri Orion",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2335,
+        "long": -1.5606,
         "president": "idPresident19",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole primaire Charles Lebourg",
         "assesseurs": [{
             "id": "idAsse329",
             "valide_assesseur": false,
@@ -1560,14 +1560,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 20,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 162,
+        "adresse": "46 Boulevard Henri Orion",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2335,
+        "long": -1.5606,
         "president": "idPresident20",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole primaire Charles Lebourg",
         "assesseurs": [{
             "id": "idAsse340",
             "valide_assesseur": false,
@@ -1614,14 +1614,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 21,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 163,
+        "adresse": "46 Boulevard Henri Orion",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2335,
+        "long": -1.5606,
         "president": "idPresident21",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole primaire Charles Lebourg",
         "assesseurs": [{
             "id": "idAsse351",
             "valide_assesseur": false,
@@ -1720,14 +1720,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 22,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 171,
+        "adresse": "15 rue Fellonneau",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2318,
+        "long": -1.5546,
         "president": "idPresident22",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Fellonneau",
         "assesseurs": [{
             "id": "idAsse375",
             "valide_assesseur": false,
@@ -1774,14 +1774,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 23,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 172,
+        "adresse": "15 rue Fellonneau",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2318,
+        "long": -1.5546,
         "president": "idPresident23",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Fellonneau",
         "assesseurs": [{
             "id": "idAsse386",
             "valide_assesseur": false,
@@ -1828,14 +1828,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 24,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 173,
+        "adresse": "15 rue Fellonneau",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2318,
+        "long": -1.5546,
         "president": "idPresident24",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Fellonneau",
         "assesseurs": [{
             "id": "idAsse397",
             "valide_assesseur": false,
@@ -1910,14 +1910,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 25,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 174,
+        "adresse": "15 rue Fellonneau",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2318,
+        "long": -1.5546,
         "president": "idPresident25",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Fellonneau",
         "assesseurs": [{
             "id": "idAsse415",
             "valide_assesseur": false,
@@ -1980,14 +1980,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 26,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 175,
+        "adresse": "15 rue Fellonneau",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2318,
+        "long": -1.5546,
         "president": "idPresident26",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Fellonneau",
         "assesseurs": [{
             "id": "idAsse430",
             "valide_assesseur": false,
@@ -2062,14 +2062,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 27,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 181,
+        "adresse": "11 rue Jean Jaurès",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2193,
+        "long": -1.5602,
         "president": "idPresident27",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Jean Jaurès",
         "assesseurs": [{
             "id": "idAsse448",
             "valide_assesseur": false,
@@ -2116,14 +2116,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 28,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 182,
+        "adresse": "11 rue Jean Jaurès",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2193,
+        "long": -1.5602,
         "president": "idPresident28",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Jean Jaurès",
         "assesseurs": [{
             "id": "idAsse459",
             "valide_assesseur": false,
@@ -2182,14 +2182,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 29,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 211,
+        "adresse": "5 rue de Madrid",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2139,
+        "long": -1.5328,
         "president": "idPresident29",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Henri Bergson",
         "assesseurs": [{
             "id": "idAsse473",
             "valide_assesseur": false,
@@ -2244,14 +2244,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 30,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 212,
+        "adresse": "5 rue de Madrid",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2139,
+        "long": -1.5328,
         "president": "idPresident30",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Henri Bergson",
         "assesseurs": [{
             "id": "idAsse486",
             "valide_assesseur": false,
@@ -2310,14 +2310,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 31,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 213,
+        "adresse": "5 rue de Madrid",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2139,
+        "long": -1.5328,
         "president": "idPresident31",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Henri Bergson",
         "assesseurs": [{
             "id": "idAsse500",
             "valide_assesseur": false,
@@ -2408,14 +2408,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 32,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 221,
+        "adresse": "7 rue Champenois",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2255,
+        "long": -1.5273,
         "president": "idPresident32",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Louis Guiotton",
         "assesseurs": [{
             "id": "idAsse522",
             "valide_assesseur": false,
@@ -2486,14 +2486,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 33,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 222,
+        "adresse": "7 rue Champenois",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2255,
+        "long": -1.5273,
         "president": "idPresident33",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Louis Guiotton",
         "assesseurs": [{
             "id": "idAsse539",
             "valide_assesseur": false,
@@ -2548,14 +2548,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 34,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 223,
+        "adresse": "7 rue Champenois",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2255,
+        "long": -1.5273,
         "president": "idPresident34",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Louis Guiotton",
         "assesseurs": [{
             "id": "idAsse552",
             "valide_assesseur": false,
@@ -2650,14 +2650,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 35,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 224,
+        "adresse": "7 rue Champenois",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2255,
+        "long": -1.5273,
         "president": "idPresident35",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Louis Guiotton",
         "assesseurs": [{
             "id": "idAsse575",
             "valide_assesseur": false,
@@ -2712,14 +2712,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 36,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 231,
+        "adresse": "13 Rue Corentin Bourveau",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44300",
+        "lat": 47.2277,
+        "long": -1.5220,
         "president": "idPresident36",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole primaire Gay Lussac",
         "assesseurs": [{
             "id": "idAsse588",
             "valide_assesseur": false,
@@ -2814,14 +2814,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 37,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 232,
+        "adresse": "13 Rue Corentin Bourveau",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44300",
+        "lat": 47.2277,
+        "long": -1.5220,
         "president": "idPresident37",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole primaire Gay Lussac",
         "assesseurs": [{
             "id": "idAsse611",
             "valide_assesseur": false,
@@ -2904,14 +2904,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 38,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 233,
+        "adresse": "13 Rue Corentin Bourveau",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44300",
+        "lat": 47.2277,
+        "long": -1.5220,
         "president": "idPresident38",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole primaire Gay Lussac",
         "assesseurs": [{
             "id": "idAsse631",
             "valide_assesseur": false,
@@ -2958,14 +2958,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 39,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 234,
+        "adresse": "13 Rue Corentin Bourveau",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44300",
+        "lat": 47.2277,
+        "long": -1.5220,
         "president": "idPresident39",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole primaire Gay Lussac",
         "assesseurs": [{
             "id": "idAsse642",
             "valide_assesseur": false,
@@ -3028,14 +3028,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 40,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 241,
+        "adresse": "24 Rue du Casterneau",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2275,
+        "long": -1.5300,
         "president": "idPresident40",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Agenêts",
         "assesseurs": [{
             "id": "idAsse657",
             "valide_assesseur": false,
@@ -3134,14 +3134,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 41,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 242,
+        "adresse": "24 Rue du Casterneau",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2275,
+        "long": -1.5300,
         "president": "idPresident41",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Agenêts",
         "assesseurs": [{
             "id": "idAsse681",
             "valide_assesseur": false,
@@ -3192,14 +3192,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 42,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 243,
+        "adresse": "24 Rue du Casterneau",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2275,
+        "long": -1.5300,
         "president": "idPresident42",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Agenêts",
         "assesseurs": [{
             "id": "idAsse693",
             "valide_assesseur": false,
@@ -3278,14 +3278,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 43,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 244,
+        "adresse": "24 Rue du Casterneau",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2275,
+        "long": -1.5300,
         "president": "idPresident43",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Agenêts",
         "assesseurs": [{
             "id": "idAsse712",
             "valide_assesseur": false,
@@ -3392,14 +3392,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 44,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 251,
+        "adresse": "148 Boulevard des Poilus",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44300",
+        "lat": 47.2334,
+        "long": -1.5336,
         "president": "idPresident44",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire François Dallet",
         "assesseurs": [{
             "id": "idAsse738",
             "valide_assesseur": false,
@@ -3474,14 +3474,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 45,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 252,
+        "adresse": "148 Boulevard des Poilus",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44300",
+        "lat": 47.2334,
+        "long": -1.5336,
         "president": "idPresident45",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire François Dallet",
         "assesseurs": [{
             "id": "idAsse756",
             "valide_assesseur": false,
@@ -3552,14 +3552,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 46,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 253,
+        "adresse": "148 Boulevard des Poilus",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44300",
+        "lat": 47.2334,
+        "long": -1.5336,
         "president": "idPresident46",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire François Dallet",
         "assesseurs": [{
             "id": "idAsse773",
             "valide_assesseur": false,
@@ -3618,14 +3618,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 47,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 254,
+        "adresse": "148 Boulevard des Poilus",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44300",
+        "lat": 47.2334,
+        "long": -1.5336,
         "president": "idPresident47",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire François Dallet",
         "assesseurs": [{
             "id": "idAsse787",
             "valide_assesseur": false,
@@ -3680,14 +3680,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 48,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 261,
+        "adresse": "20 rue du Coudray",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2328,
+        "long": -1.5432,
         "president": "idPresident48",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Coudray",
         "assesseurs": [{
             "id": "idAsse800",
             "valide_assesseur": false,
@@ -3758,14 +3758,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 49,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 262,
+        "adresse": "20 rue du Coudray",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2328,
+        "long": -1.5432,
         "president": "idPresident49",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Coudray",
         "assesseurs": [{
             "id": "idAsse817",
             "valide_assesseur": false,
@@ -3828,14 +3828,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 50,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 263,
+        "adresse": "20 rue du Coudray",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2328,
+        "long": -1.5432,
         "president": "idPresident50",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Coudray",
         "assesseurs": [{
             "id": "idAsse832",
             "valide_assesseur": false,
@@ -3902,14 +3902,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 51,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 264,
+        "adresse": "20 rue du Coudray",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2328,
+        "long": -1.5432,
         "president": "idPresident51",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Coudray",
         "assesseurs": [{
             "id": "idAsse848",
             "valide_assesseur": false,
@@ -3988,14 +3988,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 52,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 271,
+        "adresse": "53 rue de l'éraudière",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44300",
+        "lat": 47.2398,
+        "long": -1.5409,
         "president": "idPresident52",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Port Boyer",
         "assesseurs": [{
             "id": "idAsse867",
             "valide_assesseur": false,
@@ -4070,14 +4070,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 53,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 272,
+        "adresse": "53 rue de l'éraudière",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44300",
+        "lat": 47.2398,
+        "long": -1.5409,
         "president": "idPresident53",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Port Boyer",
         "assesseurs": [{
             "id": "idAsse885",
             "valide_assesseur": false,
@@ -4124,14 +4124,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 54,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 273,
+        "adresse": "53 rue de l'éraudière",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44300",
+        "lat": 47.2398,
+        "long": -1.5409,
         "president": "idPresident54",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Port Boyer",
         "assesseurs": [{
             "id": "idAsse896",
             "valide_assesseur": false,
@@ -4198,14 +4198,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 55,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 274,
+        "adresse": "53 rue de l'éraudière",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44300",
+        "lat": 47.2398,
+        "long": -1.5409,
         "president": "idPresident55",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Port Boyer",
         "assesseurs": [{
             "id": "idAsse912",
             "valide_assesseur": false,
@@ -4256,14 +4256,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 56,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 275,
+        "adresse": "53 rue de l'éraudière",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44300",
+        "lat": 47.2398,
+        "long": -1.5409,
         "president": "idPresident56",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Port Boyer",
         "assesseurs": [{
             "id": "idAsse924",
             "valide_assesseur": false,
@@ -4338,14 +4338,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 57,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 311,
+        "adresse": "3 rue de l'Heronnière",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2123,
+        "long": -1.5613,
         "president": "idPresident57",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire chêne d'Aron",
         "assesseurs": [{
             "id": "idAsse942",
             "valide_assesseur": false,
@@ -4440,14 +4440,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 58,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 312,
+        "adresse": "3 rue de l'Heronnière",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2123,
+        "long": -1.5613,
         "president": "idPresident58",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire chêne d'Aron",
         "assesseurs": [{
             "id": "idAsse965",
             "valide_assesseur": false,
@@ -4494,14 +4494,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 59,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 313,
+        "adresse": "3 rue de l'Heronnière",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2123,
+        "long": -1.5613,
         "president": "idPresident59",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire chêne d'Aron",
         "assesseurs": [{
             "id": "idAsse976",
             "valide_assesseur": false,
@@ -4608,14 +4608,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 60,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 314,
+        "adresse": "3 rue de l'Heronnière",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2123,
+        "long": -1.5613,
         "president": "idPresident60",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire chêne d'Aron",
         "assesseurs": [{
             "id": "idAsse1002",
             "valide_assesseur": false,
@@ -4702,14 +4702,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 61,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 331,
+        "adresse": "1 Rue Evariste Luminais",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2124,
+        "long": -1.5701,
         "president": "idPresident61",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire André Lermite",
         "assesseurs": [{
             "id": "idAsse1023",
             "valide_assesseur": false,
@@ -4772,14 +4772,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 62,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 332,
+        "adresse": "1 Rue Evariste Luminais",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2124,
+        "long": -1.5701,
         "president": "idPresident62",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire André Lermite",
         "assesseurs": [{
             "id": "idAsse1038",
             "valide_assesseur": false,
@@ -4866,14 +4866,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 63,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 333,
+        "adresse": "1 Rue Evariste Luminais",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2124,
+        "long": -1.5701,
         "president": "idPresident63",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire André Lermite",
         "assesseurs": [{
             "id": "idAsse1059",
             "valide_assesseur": false,
@@ -4944,14 +4944,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 64,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 334,
+        "adresse": "1 Rue Evariste Luminais",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2124,
+        "long": -1.5701,
         "president": "idPresident64",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire André Lermite",
         "assesseurs": [{
             "id": "idAsse1076",
             "valide_assesseur": false,
@@ -5046,14 +5046,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 65,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 335,
+        "adresse": "1 Rue Evariste Luminais",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2124,
+        "long": -1.5701,
         "president": "idPresident65",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire André Lermite",
         "assesseurs": [{
             "id": "idAsse1099",
             "valide_assesseur": false,
@@ -5140,14 +5140,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 66,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 341,
+        "adresse": "24 rue Emile Péhant",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2127,
+        "long": -1.5485,
         "president": "idPresident66",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Emile Péhant",
         "assesseurs": [{
             "id": "idAsse1120",
             "valide_assesseur": false,
@@ -5194,14 +5194,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 67,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 342,
+        "adresse": "24 rue Emile Péhant",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2127,
+        "long": -1.5485,
         "president": "idPresident67",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Emile Péhant",
         "assesseurs": [{
             "id": "idAsse1131",
             "valide_assesseur": false,
@@ -5252,14 +5252,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 68,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 343,
+        "adresse": "24 rue Emile Péhant",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2127,
+        "long": -1.5485,
         "president": "idPresident68",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Emile Péhant",
         "assesseurs": [{
             "id": "idAsse1143",
             "valide_assesseur": false,
@@ -5362,14 +5362,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 69,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 351,
+        "adresse": "24 boulevard Gustave Roch",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.2053,
+        "long": -1.5505,
         "president": "idPresident69",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Gustave Roch",
         "assesseurs": [{
             "id": "idAsse1168",
             "valide_assesseur": false,
@@ -5448,14 +5448,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 70,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 352,
+        "adresse": "24 boulevard Gustave Roch",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.2053,
+        "long": -1.5505,
         "president": "idPresident70",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Gustave Roch",
         "assesseurs": [{
             "id": "idAsse1187",
             "valide_assesseur": false,
@@ -5538,14 +5538,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 71,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 353,
+        "adresse": "24 boulevard Gustave Roch",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.2053,
+        "long": -1.5505,
         "president": "idPresident71",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Gustave Roch",
         "assesseurs": [{
             "id": "idAsse1207",
             "valide_assesseur": false,
@@ -5624,14 +5624,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 72,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 354,
+        "adresse": "24 boulevard Gustave Roch",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.2053,
+        "long": -1.5505,
         "president": "idPresident72",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Gustave Roch",
         "assesseurs": [{
             "id": "idAsse1226",
             "valide_assesseur": false,
@@ -5726,14 +5726,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 73,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 355,
+        "adresse": "24 boulevard Gustave Roch",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.2053,
+        "long": -1.5505,
         "president": "idPresident73",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Gustave Roch",
         "assesseurs": [{
             "id": "idAsse1249",
             "valide_assesseur": false,
@@ -5820,14 +5820,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 74,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 361,
+        "adresse": "21 Rue Paul Ramadier",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.2055,
+        "long": -1.5308,
         "president": "idPresident74",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Louise Michel",
         "assesseurs": [{
             "id": "idAsse1270",
             "valide_assesseur": false,
@@ -5926,14 +5926,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 75,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 362,
+        "adresse": "21 Rue Paul Ramadier",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.2055,
+        "long": -1.5308,
         "president": "idPresident75",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Louise Michel",
         "assesseurs": [{
             "id": "idAsse1294",
             "valide_assesseur": false,
@@ -6016,14 +6016,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 76,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 363,
+        "adresse": "21 Rue Paul Ramadier",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.2055,
+        "long": -1.5308,
         "president": "idPresident76",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Louise Michel",
         "assesseurs": [{
             "id": "idAsse1314",
             "valide_assesseur": false,
@@ -6086,14 +6086,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 77,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 364,
+        "adresse": "21 Rue Paul Ramadier",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.2055,
+        "long": -1.5308,
         "president": "idPresident77",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Louise Michel",
         "assesseurs": [{
             "id": "idAsse1329",
             "valide_assesseur": false,
@@ -6168,14 +6168,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 78,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 365,
+        "adresse": "21 Rue Paul Ramadier",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.2055,
+        "long": -1.5308,
         "president": "idPresident78",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Louise Michel",
         "assesseurs": [{
             "id": "idAsse1347",
             "valide_assesseur": false,
@@ -6226,14 +6226,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 79,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 371,
+        "adresse": "Rue de Saint Jean de Luz",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.1942,
+        "long": -1.5273,
         "president": "idPresident79",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Jacques Tati",
         "assesseurs": [{
             "id": "idAsse1359",
             "valide_assesseur": false,
@@ -6328,14 +6328,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 80,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 372,
+        "adresse": "Rue de Saint Jean de Luz",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.1942,
+        "long": -1.5273,
         "president": "idPresident80",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Jacques Tati",
         "assesseurs": [{
             "id": "idAsse1382",
             "valide_assesseur": false,
@@ -6442,14 +6442,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 81,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 373,
+        "adresse": "Rue de Saint Jean de Luz",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.1942,
+        "long": -1.5273,
         "president": "idPresident81",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Jacques Tati",
         "assesseurs": [{
             "id": "idAsse1408",
             "valide_assesseur": false,
@@ -6500,14 +6500,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 82,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 381,
+        "adresse": "47 rue Ledru Rollin",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.1925,
+        "long": -1.5351,
         "president": "idPresident82",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Ledru Rollin",
         "assesseurs": [{
             "id": "idAsse1420",
             "valide_assesseur": false,
@@ -6582,14 +6582,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 83,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 382,
+        "adresse": "47 rue Ledru Rollin",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.1925,
+        "long": -1.5351,
         "president": "idPresident83",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Ledru Rollin",
         "assesseurs": [{
             "id": "idAsse1438",
             "valide_assesseur": false,
@@ -6696,14 +6696,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 84,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 383,
+        "adresse": "47 rue Ledru Rollin",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.1925,
+        "long": -1.5351,
         "president": "idPresident84",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Ledru Rollin",
         "assesseurs": [{
             "id": "idAsse1464",
             "valide_assesseur": false,
@@ -6754,14 +6754,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 85,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 384,
+        "adresse": "47 rue Ledru Rollin",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.1925,
+        "long": -1.5351,
         "president": "idPresident85",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Ledru Rollin",
         "assesseurs": [{
             "id": "idAsse1476",
             "valide_assesseur": false,
@@ -6852,14 +6852,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 86,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 385,
+        "adresse": "47 rue Ledru Rollin",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44200",
+        "lat": 47.1925,
+        "long": -1.5351,
         "president": "idPresident86",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Ledru Rollin",
         "assesseurs": [{
             "id": "idAsse1498",
             "valide_assesseur": false,
@@ -6918,14 +6918,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 87,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 411,
+        "adresse": "rue de la Bastille",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2189,
+        "long": -1.5691,
         "president": "idPresident87",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Harouys",
         "assesseurs": [{
             "id": "idAsse1512",
             "valide_assesseur": false,
@@ -7024,14 +7024,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 88,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 412,
+        "adresse": "rue de la Bastille",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2189,
+        "long": -1.5691,
         "president": "idPresident88",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Harouys",
         "assesseurs": [{
             "id": "idAsse1536",
             "valide_assesseur": false,
@@ -7094,14 +7094,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 89,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 413,
+        "adresse": "rue de la Bastille",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2189,
+        "long": -1.5691,
         "president": "idPresident89",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Harouys",
         "assesseurs": [{
             "id": "idAsse1551",
             "valide_assesseur": false,
@@ -7192,14 +7192,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 90,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 414,
+        "adresse": "rue de la Bastille",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2189,
+        "long": -1.5691,
         "president": "idPresident90",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Harouys",
         "assesseurs": [{
             "id": "idAsse1573",
             "valide_assesseur": false,
@@ -7282,14 +7282,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 91,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 415,
+        "adresse": "rue de la Bastille",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2189,
+        "long": -1.5691,
         "president": "idPresident91",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Harouys",
         "assesseurs": [{
             "id": "idAsse1593",
             "valide_assesseur": false,
@@ -7352,14 +7352,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 92,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 416,
+        "adresse": "rue de la Bastille",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
-        "president": "idPresident92",
-        "nom_lieu": " Ecole maternelle Molière",
+        "lat": 47.2189,
+        "long": -1.5691,
+        "president": "idPresident87",
+        "nom_lieu": " Ecole maternelle Harouys",
         "assesseurs": [{
             "id": "idAsse1608",
             "valide_assesseur": false,
@@ -7430,14 +7430,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 93,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 421,
+        "adresse": "22 bis rue Marie Anne du Boccage",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2157,
+        "long": -1.5707,
         "president": "idPresident93",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole boccage",
         "assesseurs": [{
             "id": "idAsse1625",
             "valide_assesseur": false,
@@ -7532,14 +7532,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 94,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 422,
+        "adresse": "22 bis rue Marie Anne du Boccage",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2157,
+        "long": -1.5707,
         "president": "idPresident94",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole boccage",
         "assesseurs": [{
             "id": "idAsse1648",
             "valide_assesseur": false,
@@ -7590,14 +7590,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 95,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 423,
+        "adresse": "22 bis rue Marie Anne du Boccage",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2157,
+        "long": -1.5707,
         "president": "idPresident95",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole boccage",
         "assesseurs": [{
             "id": "idAsse1660",
             "valide_assesseur": false,
@@ -7684,14 +7684,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 96,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 424,
+        "adresse": "22 bis rue Marie Anne du Boccage",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2157,
+        "long": -1.5707,
         "president": "idPresident96",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole boccage",
         "assesseurs": [{
             "id": "idAsse1681",
             "valide_assesseur": false,
@@ -7778,14 +7778,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 97,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 425,
+        "adresse": "22 bis rue Marie Anne du Boccage",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2157,
+        "long": -1.5707,
         "president": "idPresident97",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole boccage",
         "assesseurs": [{
             "id": "idAsse1702",
             "valide_assesseur": false,
@@ -7892,14 +7892,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 98,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 431,
+        "adresse": "rue des Droits de l'homme",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2047,
+        "long": -1.5894,
         "president": "idPresident98",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Mutualité",
         "assesseurs": [{
             "id": "idAsse1728",
             "valide_assesseur": false,
@@ -7958,14 +7958,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 99,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 432,
+        "adresse": "rue des Droits de l'homme",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2047,
+        "long": -1.5894,
         "president": "idPresident99",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Mutualité",
         "assesseurs": [{
             "id": "idAsse1742",
             "valide_assesseur": false,
@@ -8024,14 +8024,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 100,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 433,
+        "adresse": "rue des Droits de l'homme",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2047,
+        "long": -1.5894,
         "president": "idPresident100",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Mutualité",
         "assesseurs": [{
             "id": "idAsse1756",
             "valide_assesseur": false,
@@ -8090,14 +8090,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 101,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 434,
+        "adresse": "rue des Droits de l'homme",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2047,
+        "long": -1.5894,
         "president": "idPresident101",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Mutualité",
         "assesseurs": [{
             "id": "idAsse1770",
             "valide_assesseur": false,
@@ -8196,14 +8196,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 102,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 441,
+        "adresse": "7 place des Garennes",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2022,
+        "long": -1.5785,
         "president": "idPresident102",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Garennes",
         "assesseurs": [{
             "id": "idAsse1794",
             "valide_assesseur": false,
@@ -8270,14 +8270,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 103,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 442,
+        "adresse": "7 place des Garennes",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2022,
+        "long": -1.5785,
         "president": "idPresident103",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Garennes",
         "assesseurs": [{
             "id": "idAsse1810",
             "valide_assesseur": false,
@@ -8376,14 +8376,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 104,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 443,
+        "adresse": "7 place des Garennes",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2022,
+        "long": -1.5785,
         "president": "idPresident104",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Garennes",
         "assesseurs": [{
             "id": "idAsse1834",
             "valide_assesseur": false,
@@ -8486,14 +8486,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 105,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 444,
+        "adresse": "7 place des Garennes",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2022,
+        "long": -1.5785,
         "president": "idPresident105",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Garennes",
         "assesseurs": [{
             "id": "idAsse1859",
             "valide_assesseur": false,
@@ -8544,14 +8544,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 106,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 445,
+        "adresse": "7 place des Garennes",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2022,
+        "long": -1.5785,
         "president": "idPresident106",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Garennes",
         "assesseurs": [{
             "id": "idAsse1871",
             "valide_assesseur": false,
@@ -8630,14 +8630,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 107,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 451,
+        "adresse": "12 rue des réformes",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.1997,
+        "long": -1.5913,
         "president": "idPresident107",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole primaire réformes",
         "assesseurs": [{
             "id": "idAsse1890",
             "valide_assesseur": false,
@@ -8732,14 +8732,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 108,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 452,
+        "adresse": "12 rue des réformes",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.1997,
+        "long": -1.5913,
         "president": "idPresident108",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole primaire réformes",
         "assesseurs": [{
             "id": "idAsse1913",
             "valide_assesseur": false,
@@ -8842,14 +8842,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 109,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 453,
+        "adresse": "12 rue des réformes",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.1997,
+        "long": -1.5913,
         "president": "idPresident109",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole primaire réformes",
         "assesseurs": [{
             "id": "idAsse1938",
             "valide_assesseur": false,
@@ -8944,14 +8944,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 110,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 461,
+        "adresse": "61 rue des Alouettes",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2092,
+        "long": -1.5485,
         "president": "idPresident110",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Plessis Cellier",
         "assesseurs": [{
             "id": "idAsse1961",
             "valide_assesseur": false,
@@ -9050,14 +9050,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 111,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 462,
+        "adresse": "61 rue des Alouettes",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2092,
+        "long": -1.5485,
         "president": "idPresident111",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Plessis Cellier",
         "assesseurs": [{
             "id": "idAsse1985",
             "valide_assesseur": false,
@@ -9148,14 +9148,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 112,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 463,
+        "adresse": "61 rue des Alouettes",
         "ville": "Nantes",
         "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "lat": 47.2092,
+        "long": -1.5485,
         "president": "idPresident112",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Plessis Cellier",
         "assesseurs": [{
             "id": "idAsse2007",
             "valide_assesseur": false,
@@ -9206,14 +9206,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 113,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 471,
+        "adresse": "19 rue Yves Kartel",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2086,
+        "long": -1.6071,
         "president": "idPresident113",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": "Groupe scolaire Jean Zay",
         "assesseurs": [{
             "id": "idAsse2019",
             "valide_assesseur": false,
@@ -9312,14 +9312,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 114,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 472,
+        "adresse": "19 rue Yves Kartel",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2086,
+        "long": -1.6071,
         "president": "idPresident114",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": "Groupe scolaire Jean Zay",
         "assesseurs": [{
             "id": "idAsse2043",
             "valide_assesseur": false,
@@ -9394,14 +9394,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 115,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 473,
+        "adresse": "19 rue Yves Kartel",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2086,
+        "long": -1.6071,
         "president": "idPresident115",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": "Groupe scolaire Jean Zay",
         "assesseurs": [{
             "id": "idAsse2061",
             "valide_assesseur": false,
@@ -9464,14 +9464,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 116,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 511,
+        "adresse": "Rue Louis Brisset",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2281,
+        "long": -1.5937,
         "president": "idPresident116",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Grand Carcouet",
         "assesseurs": [{
             "id": "idAsse2076",
             "valide_assesseur": false,
@@ -9534,14 +9534,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 117,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 512,
+        "adresse": "Rue Louis Brisset",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2281,
+        "long": -1.5937,
         "president": "idPresident117",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Grand Carcouet",
         "assesseurs": [{
             "id": "idAsse2091",
             "valide_assesseur": false,
@@ -9648,14 +9648,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 118,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 513,
+        "adresse": "Rue Louis Brisset",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2281,
+        "long": -1.5937,
         "president": "idPresident118",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Grand Carcouet",
         "assesseurs": [{
             "id": "idAsse2117",
             "valide_assesseur": false,
@@ -9754,14 +9754,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 119,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 521,
+        "adresse": "34 rue du Breil",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2287,
+        "long": -1.5841,
         "president": "idPresident119",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Jacques Prévert",
         "assesseurs": [{
             "id": "idAsse2141",
             "valide_assesseur": false,
@@ -9828,14 +9828,15 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 120,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 522,
+        "adresse": "34 rue du Breil",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2287,
+        "long": -1.5841,
         "president": "idPresident120",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Jacques Prévert",
+
         "assesseurs": [{
             "id": "idAsse2157",
             "valide_assesseur": false,
@@ -9882,14 +9883,15 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 121,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 523,
+        "adresse": "34 rue du Breil",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2287,
+        "long": -1.5841,
         "president": "idPresident121",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Jacques Prévert",
+
         "assesseurs": [{
             "id": "idAsse2168",
             "valide_assesseur": false,
@@ -9956,14 +9958,15 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 122,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 524,
+        "adresse": "34 rue du Breil",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2287,
+        "long": -1.5841,
         "president": "idPresident122",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Jacques Prévert",
+
         "assesseurs": [{
             "id": "idAsse2184",
             "valide_assesseur": false,
@@ -10038,14 +10041,15 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 123,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 525,
+        "adresse": "34 rue du Breil",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
-        "long": -1.5983,
+        "code_postal": "44100",
+        "lat": 47.2287,
+        "long": -1.5841,
         "president": "idPresident123",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole maternelle Jacques Prévert",
+
         "assesseurs": [{
             "id": "idAsse2202",
             "valide_assesseur": false,
@@ -10108,14 +10112,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 124,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 531,
+        "adresse": "1 rue Auguste Lepère",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
+        "code_postal": "44100",
+        "lat": 47.2269,
         "long": -1.5983,
         "president": "idPresident124",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Dervallières Chézine",
         "assesseurs": [{
             "id": "idAsse2217",
             "valide_assesseur": false,
@@ -10186,14 +10190,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 125,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 532,
+        "adresse": "1 rue Auguste Lepère",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
+        "code_postal": "44100",
+        "lat": 47.2269,
         "long": -1.5983,
         "president": "idPresident125",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Dervallières Chézine",
         "assesseurs": [{
             "id": "idAsse2234",
             "valide_assesseur": false,
@@ -10292,14 +10296,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 126,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 533,
+        "adresse": "1 rue Auguste Lepère",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
+        "code_postal": "44100",
+        "lat": 47.2269,
         "long": -1.5983,
         "president": "idPresident126",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Dervallières Chézine",
         "assesseurs": [{
             "id": "idAsse2258",
             "valide_assesseur": false,
@@ -10378,14 +10382,14 @@
             "valide_scrutateur": false
         }]
     }, {
-        "id": 127,
-        "adresse": "2 Rue du Cheval Blanc",
+        "id": 534,
+        "adresse": "1 rue Auguste Lepère",
         "ville": "Nantes",
-        "code_postal": "44000",
-        "lat": 47.2270,
+        "code_postal": "44100",
+        "lat": 47.2269,
         "long": -1.5983,
         "president": "idPresident127",
-        "nom_lieu": " Ecole maternelle Molière",
+        "nom_lieu": " Ecole élémentaire Dervallières Chézine",
         "assesseurs": [{
             "id": "idAsse2277",
             "valide_assesseur": false,
